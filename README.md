@@ -1,0 +1,1 @@
+main.c has 2 codes, first code(that is commented) is with an existing player, scarfy, and the second code is without player, only the boss. Since the boss’s movement in phase 3 relies on the player’s position for dash and teleport direction,  the playerPos parameter in UpdateBoss with a random direction choice to maintain functionality
