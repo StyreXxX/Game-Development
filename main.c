@@ -1,7 +1,7 @@
 //FULL WORKING CODE WITH PLAYER AND BOSS WITH EVOLUTION AND STAGES
 
  
-//boss with player(3 phases, dash, zigzag, teleport, fly in phase 3)
+//boss with player(3 phases, dash, zigzag, teleport phase 3, cannot fly)
 
 
 // #include "raylib.h"
@@ -1861,4 +1861,5 @@ int main(void) {
 
     CloseWindow();
     return 0;
+
 }
